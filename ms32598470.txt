@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "dungodigital.io",
+  "Id": "41672ec5-0206-4f95-ad12-37e2cc9c4b27"
+}
